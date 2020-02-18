@@ -1,1 +1,3 @@
-# notes
+# Headline
+
+> An awesome project.
