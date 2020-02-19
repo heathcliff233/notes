@@ -49,6 +49,10 @@
         id: 6
       },
       name: 'Notes',
+      page-toc : {
+      	tocMaxLevel : 2,
+      	target : 'h1, h2, h3, h4'
+      },
       search: {
         noData: {
           '/de-de/': 'Keine Ergebnisse!',
@@ -90,6 +94,7 @@
   <script src="//cdn.jsdelivr.net/npm/docsify-katex@latest/dist/docsify-katex.js"></script>
   <!-- or <script src="//cdn.jsdelivr.net/gh/upupming/docsify-katex@latest/dist/docsify-katex.js"></script> -->
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/katex@latest/dist/katex.min.css"/>
+  <script src="//unpkg.com/docsify-page-toc/dist/docsify-page-toc.js"></script>
   <script src="//unpkg.com/docsify/lib/plugins/ga.min.js"></script>
   <script src="//unpkg.com/docsify/lib/plugins/matomo.min.js"></script>
   <script src="//unpkg.com/prismjs/components/prism-bash.min.js"></script>
