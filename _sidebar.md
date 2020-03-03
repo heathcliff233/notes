@@ -11,5 +11,6 @@
     * [ch01_0226](./data_analysis/class_note/ch01_0226.md)
   - homework
     - [hwch01_0226](./data_analysis/homework/hwch01_0226.md)
-* [OS2020](https://heathcliff233.github.io/mirror_jyyos/wiki/index.html)
+* OS2020
+  * [homepage](./os2020/homepage.md)
 
