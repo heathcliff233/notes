@@ -7,6 +7,12 @@
     - [20200303](./probability/class_note/ch01_0303.md)
     - [20200305](./probability/class_note/ch02_0305.md)
     - [20200310](./probability/class_note/ch02_0310.md)
+    - [20200317](./probability/class_note/ch02_0317.md)
+    - [20200317](./probability/class_note/ch03_0317.md)
+    - [20200319](./probability/class_note/ch03_0319.md)
+    - [20200325](./probability/class_note/ch03_0325.md)
+    - [20200331](./probability/class_note/ch03_0331.md)
+    - [20200402](./probability/class_note/ch04_0402.md)
   * homework
     - [hw01](./probability/homework/hw-01.pdf)
     - [hw02](./probability/homework/hw-02.pdf)
@@ -15,6 +21,12 @@
   - class note
     * [ch01_0219](./data_analysis/class_note/ch01_0219.md)
     * [ch01_0226](./data_analysis/class_note/ch01_0226.md)
+    * [ch02_0226](./data_analysis/class_note/ch02_0226.md)
+    * [ch02_0304](./data_analysis/class_note/ch02_0304.md)
+    * [ch02_0311](./data_analysis/class_note/ch02_0311.md)
+    * [ch02_0317](./data_analysis/class_note/ch02_0317.md)
+    * [ch07_0325](./data_analysis/class_note/ch07_0325.md)
+    * [ch07_0401](./data_analysis/class_note/ch07_0401.md)
   - homework
     - [hwch01_0226](./data_analysis/homework/hwch01_0226.md)
     - [hwch02_0308](./data_analysis/homework/hwch02_0308.md)
