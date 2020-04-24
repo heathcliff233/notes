@@ -13,6 +13,8 @@
     - [20200325](./probability/class_note/ch03_0325.md)
     - [20200331](./probability/class_note/ch03_0331.md)
     - [20200402](./probability/class_note/ch04_0402.md)
+    - [20200414](./probability/class_note/ch04_0414.md)
+    - [20200416](./probability/class_note/ch04_0416.md)
   * homework
     - [hw01](./probability/homework/hw-01.pdf)
     - [hw02](./probability/homework/hw-02.pdf)
@@ -25,11 +27,33 @@
     * [ch02_0304](./data_analysis/class_note/ch02_0304.md)
     * [ch02_0311](./data_analysis/class_note/ch02_0311.md)
     * [ch02_0317](./data_analysis/class_note/ch02_0317.md)
+    * [ch03_0415](./data_analysis/class_note/ch03_0415.md)
+    * [ch03_0422](./data_analysis/class_note/ch03_0422.md)
     * [ch07_0325](./data_analysis/class_note/ch07_0325.md)
     * [ch07_0401](./data_analysis/class_note/ch07_0401.md)
   - homework
     - [hwch01_0226](./data_analysis/homework/hwch01_0226.md)
     - [hwch02_0308](./data_analysis/homework/hwch02_0308.md)
+    - [hwch03_0422](./data_analysis/homework/ch03_0422.md)
+    - [hwch07_0409](./data_analysis/homework/ch07_0409.md)
 * OS2020
   * [homepage](./os2020/homepage.md)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
