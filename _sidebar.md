@@ -29,6 +29,7 @@
     * [ch02_0317](./data_analysis/class_note/ch02_0317.md)
     * [ch03_0415](./data_analysis/class_note/ch03_0415.md)
     * [ch03_0422](./data_analysis/class_note/ch03_0422.md)
+    * [ch04_0429](./data_analysis/class_note/ch04_0429.md)
     * [ch07_0325](./data_analysis/class_note/ch07_0325.md)
     * [ch07_0401](./data_analysis/class_note/ch07_0401.md)
   - homework
