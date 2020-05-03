@@ -15,6 +15,7 @@
     - [20200402](./probability/class_note/ch04_0402.md)
     - [20200414](./probability/class_note/ch04_0414.md)
     - [20200416](./probability/class_note/ch04_0416.md)
+    - [20200421](./probability/class_note/ch05_0421.md)
   * homework
     - [hw01](./probability/homework/hw-01.pdf)
     - [hw02](./probability/homework/hw-02.pdf)
