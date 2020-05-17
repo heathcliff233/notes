@@ -16,6 +16,7 @@
     - [20200414](./probability/class_note/ch04_0414.md)
     - [20200416](./probability/class_note/ch04_0416.md)
     - [20200421](./probability/class_note/ch05_0421.md)
+    - [20200509](./probability/class_note/ch06_0509.md)
   * homework
     - [hw01](./probability/homework/hw-01.pdf)
     - [hw02](./probability/homework/hw-02.pdf)
@@ -31,6 +32,8 @@
     * [ch03_0415](./data_analysis/class_note/ch03_0415.md)
     * [ch03_0422](./data_analysis/class_note/ch03_0422.md)
     * [ch04_0429](./data_analysis/class_note/ch04_0429.md)
+    * [ch04_0513](./data_analysis/class_note/ch04_0513.md)
+    * [ch05_0513](./data_analysis/class_note/ch05_0513.md)
     * [ch07_0325](./data_analysis/class_note/ch07_0325.md)
     * [ch07_0401](./data_analysis/class_note/ch07_0401.md)
   - homework
