@@ -34,13 +34,21 @@
     * [ch04_0429](./data_analysis/class_note/ch04_0429.md)
     * [ch04_0513](./data_analysis/class_note/ch04_0513.md)
     * [ch05_0513](./data_analysis/class_note/ch05_0513.md)
+    * [ch05_0520](./data_analysis/class_note/ch05_0520.md)
+    * [ch05_0527](./data_analysis/class_note/ch05_0527.md)
+    * [ch06_0527](./data_analysis/class_note/ch06_0527.md)
+    * [ch06_0603](./data_analysis/class_note/ch06_0603.md)
     * [ch07_0325](./data_analysis/class_note/ch07_0325.md)
     * [ch07_0401](./data_analysis/class_note/ch07_0401.md)
   - homework
     - [hwch01_0226](./data_analysis/homework/hwch01_0226.md)
     - [hwch02_0308](./data_analysis/homework/hwch02_0308.md)
     - [hwch03_0422](./data_analysis/homework/ch03_0422.md)
+    - [hwch04_0516](./data_analysis/homework/ch04_0516.md)
+    - [hwch05_0527](./data_analysis/homework/ch05_0527.md)
+    - [hwch06_0610](./data_analysis/homework/ch06_0610.md)
     - [hwch07_0409](./data_analysis/homework/ch07_0409.md)
+    - [hwch08_0612](./data_analysis/homework/ch08_0612.md)
 * OS2020
   * [homepage](./os2020/homepage.md)
 
